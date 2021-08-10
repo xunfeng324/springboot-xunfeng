@@ -25,6 +25,7 @@
         <module>xunfeng-java8</module>
         <module>xunfeng-readFile</module>
         <module>xunfeng-CKFinder</module>
+        <module>xunfeng-springsecurity</module>
     </modules>
 
 
