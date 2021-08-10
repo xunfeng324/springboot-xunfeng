@@ -1,0 +1,16 @@
+server:
+  port: 8091
+
+user:
+  uname: 张氏
+  age: 190
+  addr: 四川
+
+swagger:
+  title: 接口文档
+  description: ""
+  version: ""
+  terms-of-service-url: ""
+  license: ""
+  license-url: ""
+  isEnable: 1

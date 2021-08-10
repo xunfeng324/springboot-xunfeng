@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.xunfeng.swagger.SwaggerEntity",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "user",
+      "type": "com.xunfeng.entity.User",
+      "sourceType": "com.xunfeng.entity.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.description",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "swagger.license",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "swagger.license-url",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "swagger.terms-of-service-url",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.swagger.SwaggerEntity"
+    },
+    {
+      "name": "user.addr",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.entity.User"
+    },
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.xunfeng.entity.User"
+    },
+    {
+      "name": "user.uname",
+      "type": "java.lang.String",
+      "sourceType": "com.xunfeng.entity.User"
+    }
+  ],
+  "hints": []
+}
