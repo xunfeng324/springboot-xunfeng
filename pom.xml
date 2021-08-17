@@ -27,6 +27,7 @@
         <module>xunfeng-springsecurity</module>
         <module>xunfeng-java-refletion</module>
         <module>xunfeng-java-proxy</module>
+        <module>xunfeng-springAOP</module>
     </modules>
 
 
