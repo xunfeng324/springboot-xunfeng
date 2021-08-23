@@ -28,6 +28,7 @@
         <module>xunfeng-java-refletion</module>
         <module>xunfeng-java-proxy</module>
         <module>xunfeng-springAOP</module>
+        <module>xunfeng-exception</module>
     </modules>
 
 
